@@ -2,7 +2,9 @@
 
 This is where I would write a Readme about my project, or include documentation.
 
-You can store all your data, R projects, output, and code in this folder. If my data files were too big to host on Github, I might post the link to download them here, with instructions.
+I've organized this repository with subfolders where I store my data and my code output.
+
+You can store all your data, R projects, output, and code in this repository folder. If my data files were too big to host on Github, I might post the link to download them here, with instructions.
 
 Get my data
 
